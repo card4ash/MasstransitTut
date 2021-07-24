@@ -1,0 +1,126 @@
+2021-07-25 02:04:49.940 +06:00 [INF] Application Starting
+2021-07-25 02:04:49.996 +06:00 [INF] Starting web host
+2021-07-25 02:04:51.566 +06:00 [DBG] Starting bus instances: IBus
+2021-07-25 02:04:51.574 +06:00 [DBG] Starting bus: "rabbitmq://localhost/"
+2021-07-25 02:04:51.620 +06:00 [DBG] Connect: guest@localhost:5672/
+2021-07-25 02:04:51.746 +06:00 [DBG] Connected: guest@localhost:5672/ (address: amqp://localhost:5672, local: 52154)
+2021-07-25 02:04:51.814 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2021-07-25 02:04:51.815 +06:00 [DBG] Endpoint Ready: "rabbitmq://localhost/HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnus9tbdcw7z1m85?temporary=true"
+2021-07-25 02:04:51.947 +06:00 [INF] Now listening on: https://localhost:5001
+2021-07-25 02:04:51.950 +06:00 [INF] Now listening on: http://localhost:5000
+2021-07-25 02:04:51.951 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-25 02:04:51.952 +06:00 [INF] Hosting environment: Development
+2021-07-25 02:04:51.953 +06:00 [INF] Content root path: E:\ASH\Masstransit\MassTut\MassTut\MassTut.SampleAPI
+2021-07-25 02:04:52.704 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-07-25 02:04:52.779 +06:00 [INF] Request finished in 78.2111ms 200 text/html;charset=utf-8
+2021-07-25 02:04:52.815 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2021-07-25 02:04:52.821 +06:00 [INF] Request finished in 5.3635ms 200 application/javascript; charset=utf-8
+2021-07-25 02:04:52.978 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-07-25 02:04:53.046 +06:00 [INF] Request finished in 68.0133ms 200 application/json;charset=utf-8
+2021-07-25 02:06:00.993 +06:00 [INF] Application Starting
+2021-07-25 02:06:01.041 +06:00 [INF] Starting web host
+2021-07-25 02:06:01.801 +06:00 [DBG] Starting bus instances: IBus
+2021-07-25 02:06:01.810 +06:00 [DBG] Starting bus: "rabbitmq://localhost/"
+2021-07-25 02:06:01.852 +06:00 [DBG] Connect: guest@localhost:5672/
+2021-07-25 02:06:02.047 +06:00 [DBG] Connected: guest@localhost:5672/ (address: amqp://localhost:5672, local: 55236)
+2021-07-25 02:06:02.126 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2021-07-25 02:06:02.128 +06:00 [DBG] Endpoint Ready: "rabbitmq://localhost/HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcn1ocxbdcw7zuiga?temporary=true"
+2021-07-25 02:06:02.175 +06:00 [INF] Now listening on: https://localhost:5001
+2021-07-25 02:06:02.176 +06:00 [INF] Now listening on: http://localhost:5000
+2021-07-25 02:06:02.177 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-25 02:06:02.178 +06:00 [INF] Hosting environment: Development
+2021-07-25 02:06:02.179 +06:00 [INF] Content root path: E:\ASH\Masstransit\MassTut\MassTut\MassTut.SampleAPI
+2021-07-25 02:06:02.780 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-07-25 02:06:02.864 +06:00 [INF] Request finished in 85.7268ms 200 text/html;charset=utf-8
+2021-07-25 02:06:02.912 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2021-07-25 02:06:02.918 +06:00 [INF] Request finished in 5.6885ms 200 application/javascript; charset=utf-8
+2021-07-25 02:06:03.082 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-07-25 02:06:03.147 +06:00 [INF] Request finished in 64.8734ms 200 application/json;charset=utf-8
+2021-07-25 02:10:47.601 +06:00 [INF] Application Starting
+2021-07-25 02:10:47.648 +06:00 [INF] Starting web host
+2021-07-25 02:10:48.972 +06:00 [DBG] Starting bus instances: IBus
+2021-07-25 02:10:48.982 +06:00 [DBG] Starting bus: "rabbitmq://localhost/"
+2021-07-25 02:10:49.023 +06:00 [DBG] Connect: guest@localhost:5672/
+2021-07-25 02:10:49.144 +06:00 [DBG] Connected: guest@localhost:5672/ (address: amqp://localhost:5672, local: 58590)
+2021-07-25 02:10:49.206 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2021-07-25 02:10:49.216 +06:00 [DBG] Endpoint Ready: "rabbitmq://localhost/HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu8b9bdcw7z3byb?temporary=true"
+2021-07-25 02:10:49.343 +06:00 [INF] Now listening on: https://localhost:5001
+2021-07-25 02:10:49.346 +06:00 [INF] Now listening on: http://localhost:5000
+2021-07-25 02:10:49.347 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-25 02:10:49.348 +06:00 [INF] Hosting environment: Development
+2021-07-25 02:10:49.349 +06:00 [INF] Content root path: E:\ASH\Masstransit\MassTut\MassTut\MassTut.SampleAPI
+2021-07-25 02:10:50.361 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-07-25 02:10:50.429 +06:00 [INF] Request finished in 71.1249ms 200 text/html;charset=utf-8
+2021-07-25 02:10:50.475 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2021-07-25 02:10:50.481 +06:00 [INF] Request finished in 6.2564ms 200 application/javascript; charset=utf-8
+2021-07-25 02:10:50.651 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-07-25 02:10:50.721 +06:00 [INF] Request finished in 70.0764ms 200 application/json;charset=utf-8
+2021-07-25 02:11:07.810 +06:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/Order?id=20ab9022-dfe3-4d54-b29a-537cd53a8dde&customerNumber=234567  0
+2021-07-25 02:11:07.834 +06:00 [INF] Executing endpoint 'MassTut.SampleAPI.Controllers.OrderController.Post (MassTut.SampleAPI)'
+2021-07-25 02:11:07.863 +06:00 [INF] Route matched with {action = "Post", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(System.Guid, System.String) on controller MassTut.SampleAPI.Controllers.OrderController (MassTut.SampleAPI).
+2021-07-25 02:11:11.003 +06:00 [DBG] Declare exchange: name: MassTut.Contracts:SubmitOrder, type: fanout, durable
+2021-07-25 02:11:11.053 +06:00 [DBG] Declare queue: name: HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu8b9bdcw7z3byb, x-expires: 60000, consumer-count: 0 message-count: 0
+2021-07-25 02:11:11.078 +06:00 [DBG] Declare exchange: name: HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu8b9bdcw7z3byb, type: fanout, auto-delete
+2021-07-25 02:11:11.086 +06:00 [DBG] Bind queue: source: HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu8b9bdcw7z3byb, destination: HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu8b9bdcw7z3byb
+2021-07-25 02:11:11.149 +06:00 [DBG] Consumer Ok: "rabbitmq://localhost/HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu8b9bdcw7z3byb?temporary=true" - amq.ctag-ecw09FbOTPSwsSNKqyWRCg
+2021-07-25 02:11:11.343 +06:00 [DBG] SEND "rabbitmq://localhost/MassTut.Contracts:SubmitOrder" "3a970000-a663-9829-89d2-08d94edf2e40" MassTut.Contracts.SubmitOrder
+2021-07-25 02:11:44.312 +06:00 [ERR] Timeout waiting for response, RequestId: 3a970000-a663-9829-e05d-08d94edf2e26
+2021-07-25 02:11:44.320 +06:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-07-25 02:11:44.327 +06:00 [INF] Executed action MassTut.SampleAPI.Controllers.OrderController.Post (MassTut.SampleAPI) in 36455.9488ms
+2021-07-25 02:11:44.331 +06:00 [INF] Executed endpoint 'MassTut.SampleAPI.Controllers.OrderController.Post (MassTut.SampleAPI)'
+2021-07-25 02:11:44.337 +06:00 [INF] Request finished in 36527.5402ms 500 text/plain; charset=utf-8
+2021-07-25 03:26:32.474 +06:00 [INF] Application Starting
+2021-07-25 03:26:32.519 +06:00 [INF] Starting web host
+2021-07-25 03:26:33.818 +06:00 [DBG] Starting bus instances: IBus
+2021-07-25 03:26:33.826 +06:00 [DBG] Starting bus: "rabbitmq://localhost/"
+2021-07-25 03:26:33.868 +06:00 [DBG] Connect: guest@localhost:5672/
+2021-07-25 03:26:33.996 +06:00 [DBG] Connected: guest@localhost:5672/ (address: amqp://localhost:5672, local: 57222)
+2021-07-25 03:26:34.066 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2021-07-25 03:26:34.068 +06:00 [DBG] Endpoint Ready: "rabbitmq://localhost/HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcn1hdibdcw74pi8w?temporary=true"
+2021-07-25 03:26:34.262 +06:00 [INF] Now listening on: https://localhost:5001
+2021-07-25 03:26:34.265 +06:00 [INF] Now listening on: http://localhost:5000
+2021-07-25 03:26:34.266 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-25 03:26:34.267 +06:00 [INF] Hosting environment: Development
+2021-07-25 03:26:34.268 +06:00 [INF] Content root path: E:\ASH\Masstransit\MassTut\MassTut\MassTut.SampleAPI
+2021-07-25 03:26:35.258 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-07-25 03:26:35.317 +06:00 [INF] Request finished in 60.7076ms 200 text/html;charset=utf-8
+2021-07-25 03:26:35.352 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2021-07-25 03:26:35.358 +06:00 [INF] Request finished in 5.9115ms 200 application/javascript; charset=utf-8
+2021-07-25 03:26:35.527 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-07-25 03:26:35.601 +06:00 [INF] Request finished in 74.9639ms 200 application/json;charset=utf-8
+2021-07-25 03:27:04.226 +06:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/Order?id=20ab9022-dfe3-4d54-b29a-537cd53a8dde&customerNumber=123456  0
+2021-07-25 03:27:04.296 +06:00 [INF] Executing endpoint 'MassTut.SampleAPI.Controllers.OrderController.Post (MassTut.SampleAPI)'
+2021-07-25 03:27:04.403 +06:00 [INF] Route matched with {action = "Post", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(System.Guid, System.String) on controller MassTut.SampleAPI.Controllers.OrderController (MassTut.SampleAPI).
+2021-07-25 03:32:13.531 +06:00 [INF] Application Starting
+2021-07-25 03:32:13.575 +06:00 [INF] Starting web host
+2021-07-25 03:32:14.270 +06:00 [DBG] Starting bus instances: IBus
+2021-07-25 03:32:14.278 +06:00 [DBG] Starting bus: "rabbitmq://localhost/"
+2021-07-25 03:32:14.354 +06:00 [DBG] Connect: guest@localhost:5672/
+2021-07-25 03:32:14.529 +06:00 [DBG] Connected: guest@localhost:5672/ (address: amqp://localhost:5672, local: 62124)
+2021-07-25 03:32:14.589 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2021-07-25 03:32:14.591 +06:00 [DBG] Endpoint Ready: "rabbitmq://localhost/HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu5mjbdcw74wy8n?temporary=true"
+2021-07-25 03:32:14.639 +06:00 [INF] Now listening on: https://localhost:5001
+2021-07-25 03:32:14.641 +06:00 [INF] Now listening on: http://localhost:5000
+2021-07-25 03:32:14.643 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-25 03:32:14.644 +06:00 [INF] Hosting environment: Development
+2021-07-25 03:32:14.645 +06:00 [INF] Content root path: E:\ASH\Masstransit\MassTut\MassTut\MassTut.SampleAPI
+2021-07-25 03:32:15.302 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-07-25 03:32:15.390 +06:00 [INF] Request finished in 92.9975ms 200 text/html;charset=utf-8
+2021-07-25 03:32:15.442 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2021-07-25 03:32:15.456 +06:00 [INF] Request finished in 13.5041ms 200 application/javascript; charset=utf-8
+2021-07-25 03:32:15.636 +06:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-07-25 03:32:15.719 +06:00 [INF] Request finished in 82.8ms 200 application/json;charset=utf-8
+2021-07-25 03:32:29.927 +06:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/Order?id=20ab9022-dfe3-4d54-b29a-537cd53a8dde&customerNumber=23456  0
+2021-07-25 03:32:29.953 +06:00 [INF] Executing endpoint 'MassTut.SampleAPI.Controllers.OrderController.Post (MassTut.SampleAPI)'
+2021-07-25 03:32:29.980 +06:00 [INF] Route matched with {action = "Post", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(System.Guid, System.String) on controller MassTut.SampleAPI.Controllers.OrderController (MassTut.SampleAPI).
+2021-07-25 03:32:35.805 +06:00 [DBG] Declare exchange: name: MassTut.Contracts:SubmitOrder, type: fanout, durable
+2021-07-25 03:32:35.858 +06:00 [DBG] Declare queue: name: HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu5mjbdcw74wy8n, x-expires: 60000, consumer-count: 0 message-count: 0
+2021-07-25 03:32:35.887 +06:00 [DBG] Declare exchange: name: HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu5mjbdcw74wy8n, type: fanout, auto-delete
+2021-07-25 03:32:35.893 +06:00 [DBG] Bind queue: source: HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu5mjbdcw74wy8n, destination: HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu5mjbdcw74wy8n
+2021-07-25 03:32:35.945 +06:00 [DBG] Consumer Ok: "rabbitmq://localhost/HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu5mjbdcw74wy8n?temporary=true" - amq.ctag-DZX6KatQuh28cs1_B4sZsg
+2021-07-25 03:32:36.156 +06:00 [DBG] SEND "rabbitmq://localhost/MassTut.Contracts:SubmitOrder" "3a970000-a663-9829-269c-08d94eea8dd0" MassTut.Contracts.SubmitOrder
+2021-07-25 03:32:48.282 +06:00 [DBG] RECEIVE "rabbitmq://localhost/HOFS2406101634A_MassTutSampleAPI_bus_8kmoyyfgcqcnu5mjbdcw74wy8n?temporary=true" "3a970000-a663-9829-909d-08d94eea9521" MassTut.Contracts.OrderSubmissionAccepted MassTransit.MessageHandler<MassTut.Contracts.OrderSubmissionAccepted>("00:00:00.0021257")
+2021-07-25 03:32:48.287 +06:00 [INF] Executing ObjectResult, writing value of type 'MassTransit.Clients.MessageResponse`1[[MassTut.Contracts.OrderSubmissionAccepted, MassTut.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-07-25 03:32:48.300 +06:00 [INF] Executed action MassTut.SampleAPI.Controllers.OrderController.Post (MassTut.SampleAPI) in 18313.789ms
+2021-07-25 03:32:48.303 +06:00 [INF] Executed endpoint 'MassTut.SampleAPI.Controllers.OrderController.Post (MassTut.SampleAPI)'
+2021-07-25 03:32:48.307 +06:00 [INF] Request finished in 18381.193ms 202 application/json; charset=utf-8

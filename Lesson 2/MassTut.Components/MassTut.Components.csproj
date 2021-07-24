@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit" Version="7.2.1" />
+    <PackageReference Include="MassTransit.Analyzers" Version="7.2.2-develop.152" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MassTut.Contracts\MassTut.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
