@@ -37,7 +37,8 @@ namespace MassTut.SampleAPI
                     });
                 }));
                 //cfg.AddRequestClient<SubmitOrder>();
-                cfg.AddRequestClient<SubmitOrder>(new Uri($"queue:{KebabCaseEndpointNameFormatter.Instance.Consumer<SubmitOrderConsumer>()}"));
+                //cfg.AddRequestClient<SubmitOrder>(new Uri($"queue:{KebabCaseEndpointNameFormatter.Instance.Consumer<SubmitOrderConsumer>()}"));
+                cfg.AddRequestClient<SubmitOrder>(new Uri($"exchange:{KebabCaseEndpointNameFormatter.Instance.Consumer<SubmitOrderConsumer>()}"));
             });
             services.AddMassTransitHostedService();
             services.AddControllers();

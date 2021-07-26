@@ -21,7 +21,7 @@ namespace MassTut.Components.Consumers
         }
         public async Task Consume(ConsumeContext<SubmitOrder> context)
         {
-            _logger?.Log(LogLevel.Debug, "SubmitOrderConsumer: {CustomerNumber}", context.Message.CustomerNumber);
+            _logger?.Log(LogLevel.Warning, "SubmitOrderConsumer: {CustomerNumber}", context.Message.CustomerNumber);
             if (context.Message.CustomerNumber.Contains("TEST"))
             {
                 if (context.RequestId != null)
@@ -37,12 +37,15 @@ namespace MassTut.Components.Consumers
 
                 return;
             }
-            await context.RespondAsync<OrderSubmissionAccepted>(new
+            if (context.RequestId != null)
             {
-                InVar.Timestamp,
-                context.Message.OrderId,
-                context.Message.CustomerNumber
-            });
+                await context.RespondAsync<OrderSubmissionAccepted>(new
+                {
+                    InVar.Timestamp,
+                    context.Message.OrderId,
+                    context.Message.CustomerNumber
+                });
+            }
         }
     }
 }
